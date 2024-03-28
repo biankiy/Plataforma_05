@@ -7,5 +7,3 @@ https://mi-primer-blog-personal.netlify.app
 
 Proyecto PlataformaDiscoI
 https://plataforma-disco.netlify.app
-
-# 02_CSS
