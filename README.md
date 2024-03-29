@@ -9,3 +9,6 @@ Proyecto PlataformaDiscoI
 https://plataforma-disco.netlify.app
 
 # 02_CSS
+
+Ejercicio_01
+https://6606cb8ec09bc502d898bf90--fastidious-narwhal-94534f.netlify.app
