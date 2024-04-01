@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(79, 207, 165);
+}
+#titulo{
+    margin-top: 0;
+    width: 500px;
+}
+
+.hogar{
+    margin-top: 80px;
+    display: flex;
+
+    align-items: center;
+}
+
+.hogar  p {
+   font-size: 25px;
+   text-align: center;
+   flex: 1; /* El párrafo ocupará el 50% del contenedor */
+  max-width: 50%;
+}
+
+.hogar img {
+
+    flex: 1;
+    max-width: 50%;
+}
+
+
+.personajes > img {
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+.personajes{
+    display: flex;
+    justify-content: flex-start;
+}

@@ -10,5 +10,5 @@ https://plataforma-disco.netlify.app
 
 # 02_CSS
 
-Ejercicio_01
+Ejercicio_01 (Panchito)
 https://6606cb8ec09bc502d898bf90--fastidious-narwhal-94534f.netlify.app
