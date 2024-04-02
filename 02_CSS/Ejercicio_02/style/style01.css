@@ -6,10 +6,11 @@
     background-color: rgba(235, 232, 55, 0.829);
 }
 #body-03{
-    background-color: rgb(79, 207, 165);
+    background-color: rgb(0, 0, 0);
 }
 
 #titulo{
+    margin-left: 50px;
     margin-top: 0;
     width: 500px;
 }
@@ -29,6 +30,14 @@ h3{
     text-align: center;
     font-size: 30px
 }
+
+#h3Desencanto{
+    color: rgb(255, 187, 0);
+    text-align: center;
+    font-size: 30px
+
+}
+
 .hogar{
     margin-top: 50px;
     display: flex;
@@ -52,10 +61,26 @@ h3{
     padding-right: 50px;
 }
 
+#desencantoP {
+
+    font-size: 20px;
+    text-align: center;
+    flex: 1; 
+     max-width: 50%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     background-color: rgba(194, 191, 50, 0.959);
+     padding-left: 50px;
+     margin-left: 50px;
+     padding-top: 100px;
+     padding-bottom: 100px;
+     padding-right: 50px;
+ }
+
 
 .hogar img {
     flex: 1;
     max-width: 50%;
+    height: 500px;
     padding-left: 100px;
     padding-right: 50px;
 
@@ -70,4 +95,21 @@ h3{
     width: 325px;
     height: 400px;
     object-fit: cover;
+}
+
+.fcc-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    text-align: center; 
+    background-color: #199319;
+    color: white;
+    margin-top: 20px;
+    padding: 30px 25px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.fcc-btn:hover {
+    background-color: #942222;
 }
