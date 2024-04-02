@@ -1,12 +1,28 @@
 
-
-body{
-  
+#body-01{
     background-color: rgb(79, 207, 165);
 }
+#body-02{
+    background-color: rgba(235, 232, 55, 0.829);
+}
+#body-03{
+    background-color: rgb(79, 207, 165);
+}
+
 #titulo{
     margin-top: 0;
     width: 500px;
+}
+
+h1{
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 90px;
+    color: yellow;
+    font-style: oblique;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    
 }
 
 h3{
